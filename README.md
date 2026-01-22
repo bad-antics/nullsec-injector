@@ -114,3 +114,19 @@ NullSec Proprietary License
 ---
 
 *Part of the NullSec Security Toolkit*
+
+
+## 👤 Author
+
+**bad-antics**
+- GitHub: [@bad-antics](https://github.com/bad-antics)
+- Website: [bad-antics.github.io](https://bad-antics.github.io)
+- Discord: [discord.gg/killers](https://discord.gg/killers)
+
+---
+
+<div align="center">
+
+**Part of the NullSec Security Framework**
+
+</div>
