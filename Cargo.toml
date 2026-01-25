@@ -31,3 +31,4 @@ unsafe_code = "warn"
 all = "warn"
 pedantic = "warn"
 nursery = "warn"
+exclude = ["target/", "*.odin"]
