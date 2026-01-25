@@ -12,7 +12,7 @@
 // - Audit logging capability
 // - Defense-in-depth architecture
 
-#![forbid(unsafe_code)]  // Uncomment for safe-only mode
+// #![forbid(unsafe_code)]  // Uncomment for safe-only mode
 #![warn(clippy::all)]
 #![warn(clippy::pedantic)]
 #![warn(clippy::nursery)]
