@@ -9,6 +9,7 @@ repository = "https://github.com/bad-antics/nullsec-injector"
 keywords = ["security", "injection", "memory", "research", "pentest"]
 categories = ["command-line-utilities", "development-tools"]
 readme = "README.md"
+exclude = ["target/", "*.odin"]
 
 [dependencies]
 libc = "0.2"
@@ -31,4 +32,3 @@ unsafe_code = "warn"
 all = "warn"
 pedantic = "warn"
 nursery = "warn"
-exclude = ["target/", "*.odin"]
